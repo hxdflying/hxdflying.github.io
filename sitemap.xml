@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git/2023/03/02/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://hxdflying.github.io/data/link.json</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git/2023/03/02/hello-world/</loc>
+    <loc>https://hxdflying.github.io/link/index.html</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git/gallery/index.html</loc>
+    <loc>https://hxdflying.github.io/categorie/index.html</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git/tags/index.html</loc>
+    <loc>https://hxdflying.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -38,7 +38,34 @@
   </url>
   
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git/categorie/index.html</loc>
+    <loc>https://hxdflying.github.io/data/widget.json</loc>
+    
+    <lastmod>2023-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/data/index.html</loc>
+    
+    <lastmod>2023-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/2023/03/02/hello-world/</loc>
+    
+    <lastmod>2023-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/gallery/index.html</loc>
     
     <lastmod>2023-03-02</lastmod>
     
@@ -48,7 +75,7 @@
   
 
   <url>
-    <loc>https://github.com/hxdflying/hxdflying.github.io.git</loc>
+    <loc>https://hxdflying.github.io/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
