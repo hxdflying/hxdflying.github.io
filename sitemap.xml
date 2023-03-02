@@ -73,6 +73,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://hxdflying.github.io/2023/03/01/yolo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2023-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://hxdflying.github.io/</loc>
@@ -82,6 +91,20 @@
   </url>
 
   
+  <url>
+    <loc>https://hxdflying.github.io/tags/yolo/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://hxdflying.github.io/categories/computer-vision/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
