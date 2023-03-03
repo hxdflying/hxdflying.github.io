@@ -1,3 +1,5 @@
+https://hxdflying.github.io/2023/03/02/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F1/
+https://hxdflying.github.io/2023/03/01/yolo/
 https://hxdflying.github.io/data/link.json
 https://hxdflying.github.io/link/index.html
 https://hxdflying.github.io/categorie/index.html
@@ -6,7 +8,10 @@ https://hxdflying.github.io/data/widget.json
 https://hxdflying.github.io/data/index.html
 https://hxdflying.github.io/2023/03/02/hello-world/
 https://hxdflying.github.io/gallery/index.html
-https://hxdflying.github.io/2023/03/01/yolo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 https://hxdflying.github.io/
+https://hxdflying.github.io/tags/%E8%AF%BB%E5%8D%9A/
 https://hxdflying.github.io/tags/yolo/
-https://hxdflying.github.io/categories/computer-vision/
+https://hxdflying.github.io/categories/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F/
+https://hxdflying.github.io/categories/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F/%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%B6%AF/
+https://hxdflying.github.io/categories/computure-vison/
+https://hxdflying.github.io/categories/computure-vison/object-dection/

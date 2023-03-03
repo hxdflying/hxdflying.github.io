@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hxdflying.github.io/2023/03/02/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F1/</loc>
+    
+    <lastmod>2023-03-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/2023/03/01/yolo/</loc>
+    
+    <lastmod>2023-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hxdflying.github.io/data/link.json</loc>
     
     <lastmod>2023-03-02</lastmod>
@@ -73,27 +91,25 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://hxdflying.github.io/2023/03/01/yolo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://hxdflying.github.io/</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://hxdflying.github.io/tags/%E8%AF%BB%E5%8D%9A/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hxdflying.github.io/tags/yolo/</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -101,8 +117,29 @@
 
   
   <url>
-    <loc>https://hxdflying.github.io/categories/computer-vision/</loc>
-    <lastmod>2023-03-02</lastmod>
+    <loc>https://hxdflying.github.io/categories/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/categories/%E8%AF%BB%E5%8D%9A%E6%84%9F%E6%82%9F/%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%B6%AF/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/categories/computure-vison/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hxdflying.github.io/categories/computure-vison/object-dection/</loc>
+    <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
