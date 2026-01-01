@@ -6,7 +6,7 @@
   <link href="https://hxdflying.github.io/atom.xml" rel="self"/>
   
   <link href="https://hxdflying.github.io/"/>
-  <updated>2023-03-02T16:41:16.828Z</updated>
+  <updated>2025-12-31T00:00:00.000Z</updated>
   <id>https://hxdflying.github.io/</id>
   
   <author>
@@ -16,12 +16,32 @@
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
-  <entry>
+    <entry>
+    <title>2025 年度总结：稳住节奏，向内生长</title>
+    <link href="https://hxdflying.github.io/2025/12/31/2025-summary/"/>
+    <id>https://hxdflying.github.io/2025/12/31/2025-summary/</id>
+    <published>2025-12-31T00:00:00.000Z</published>
+    <updated>2025-12-31T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一-写在前面"><a href="#一-写在前面" class="headerlink" title="一 写在前面"></a>一 写在前面</h2><p>如果用一句话概括 2025 年，我会说：这是我从“想做很多事”转向“把少数关键事做稳”的一年。过去我更容易被新想法牵着走，而这一年我学会了让节奏先稳下来，再去决定方向。</p><h2 id="二-研究与工作"><a href="#二-研究与工作" class="headerlink" title="二 研究与工作"></a>二 研究与工作</h2><p>研究上最大的变化是开始建立“问题清单 + 每周推进”的工作方式。把复杂的问题拆成可验证的小步骤，再用稳定的节奏推进。这个过程里，我意识到“持续、小步、复盘”比“灵感爆发”更可靠。</p><p>此外，我也更加重视和他人的交流：提前准备问题、记录反馈、及时消化。每一次沟通都在帮我缩短走弯路的时间。</p><h2 id="三-生活与习惯"><a href="#三-生活与习惯" class="headerlink" title="三 生活与习惯"></a>三 生活与习惯</h2><p>我开始系统地管理精力，而不是只管理时间。规律睡眠、固定运动、减少无意义的熬夜，让我在白天更能集中注意力。阅读也从“零散输入”变成“带着问题读”，帮助我更快形成自己的判断。</p><h2 id="四-关系与心态"><a href="#四-关系与心态" class="headerlink" title="四 关系与心态"></a>四 关系与心态</h2><p>这一年我更愿意主动联系亲友，也学会在忙碌中给关系留出空间。心态上，慢慢接受“允许自己不完美”，把焦虑从结果转移到过程，把注意力放在可以掌控的部分。</p><h2 id="五-年度关键词"><a href="#五-年度关键词" class="headerlink" title="五 年度关键词"></a>五 年度关键词</h2><ul><li><strong>稳定</strong>：不追热点，把节奏稳定下来。</li><li><strong>专注</strong>：把时间给真正重要的事。</li><li><strong>复盘</strong>：每月一次小结，让经验变成方法。</li></ul><h2 id="六-展望-2026"><a href="#六-展望-2026" class="headerlink" title="六 展望 2026"></a>六 展望 2026</h2><p>2026 年，我希望继续保持稳定节奏，同时在三个方向做得更具体：</p><ol><li>把研究问题持续推进到可发表的阶段。</li><li>保持运动与阅读的常态化，不因为忙碌而中断。</li><li>继续记录，持续复盘，让成长可见。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;如果用一句话概括 2025 年，我会说：这是我从“想做很多事”转向“把少数关键事做稳”的一年。过去我更容易被新想法牵着走，而这一年我学会了让节奏先稳下来，再去决定方向。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+<entry>
     <title>Hello World</title>
     <link href="https://hxdflying.github.io/2023/03/02/hello-world/"/>
     <id>https://hxdflying.github.io/2023/03/02/hello-world/</id>
     <published>2023-03-02T16:13:25.481Z</published>
-    <updated>2023-03-02T16:41:16.828Z</updated>
+    <updated>2025-12-31T00:00:00.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
